@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/modal/static/css/main.1088613b.css",
+    "main.js": "/modal/static/js/main.f92ccbe5.js",
+    "index.html": "/modal/index.html",
+    "main.1088613b.css.map": "/modal/static/css/main.1088613b.css.map",
+    "main.f92ccbe5.js.map": "/modal/static/js/main.f92ccbe5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1088613b.css",
+    "static/js/main.f92ccbe5.js"
+  ]
+}
